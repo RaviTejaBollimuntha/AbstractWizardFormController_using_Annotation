@@ -11,7 +11,7 @@ import org.springframework.web.servlet.view.JstlView;
 
 @EnableWebMvc
 @Configuration
-@ComponentScan({"com.memorynotfound"})
+@ComponentScan({"com.rt"})
 public class WebConfig extends WebMvcConfigurerAdapter {
 
     @Override
